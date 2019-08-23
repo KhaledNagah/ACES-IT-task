@@ -1,0 +1,49 @@
+.img1{
+    width:150px;
+    height: 150px;
+    display: block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto 
+}
+.video
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 0px
+  
+}
+.org
+{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    width: 540px;
+    height: 135px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #004b26;
+    background-image: linear-gradient(#004b26,#0AFA9A);
+    padding: 0px 10px
+}
+p
+{
+ color: white;   
+}
+h1
+{
+ color: white;   
+}
+.img2
+{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 200px;
+ height: 65px;
+ margin-top: 0;
+ margin-bottom: 0;
+}
+
